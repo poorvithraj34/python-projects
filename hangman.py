@@ -64,13 +64,13 @@ stages = [
 =========
 '''
 ]
-word_list=["poorvith","kishore","samrudh"]
+word_list=["poorvith","kishore","samrudh","samarth","raj","nethra"]
 
 lives=6
 
 
 chosen_word=random.choice(word_list)
-print(chosen_word)
+
 
 paceholder=""
 for lette in chosen_word:
